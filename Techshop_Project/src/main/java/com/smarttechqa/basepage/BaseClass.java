@@ -28,6 +28,8 @@ public class BaseClass {
 	System.out.println("This application name is :"+driver.getTitle());
 	driver.quit();
 	
+	System.out.println("I create my automation project");
+	
 	
 	
 	}
